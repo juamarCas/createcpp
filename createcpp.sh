@@ -27,8 +27,7 @@ mkdir includes
 
 touch Makefile
 
-echo 
-"INCLUDE =
+echo "INCLUDE =
 LIB      =
 LINK     =
 FLAGS    =
